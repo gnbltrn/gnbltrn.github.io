@@ -1,0 +1,12 @@
+name: "my-website"
+navbar:
+  title: "Gino Beltran"
+
+    
+  left:
+    - text: "About Me"
+      href: index.html
+    - text: "Research"
+      href: research.html
+    - text: "Projects"
+      href: projects.html
